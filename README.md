@@ -1,7 +1,12 @@
 ### Hi there 👋
-<h3>What`s in my tool belt</h3>  
+
 
 ***
+---
+___
+
+<h3>What`s in my tool belt</h3>  
+
 
 <br>
 <div style="display: inline_block">

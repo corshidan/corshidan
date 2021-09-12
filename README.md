@@ -9,6 +9,8 @@
   <img align="center" alt="corshidan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt="corshidan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> 
   <img align="center" alt="corshidan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
+  <img align="center" alt="corshidan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
 </div><br>
 <!--
 **corshidan/corshidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

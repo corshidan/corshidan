@@ -26,9 +26,9 @@ TODO: Add short bio !
 ***
 ![github contribution grid snake animation](https://raw.githubusercontent.com/corshidan/corshidan/output/github-contribution-grid-snake.svg)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=corshidan&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=corshidan&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=corshidan&count_private=true&theme=kacho_ga&showicons=true)]()
+<!-- 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=corshidan&langs_count=5&theme=tokyonight)]() -->
 
 <!--
 **corshidan/corshidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

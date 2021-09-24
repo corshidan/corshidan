@@ -24,7 +24,7 @@ TODO: Add short bio !
 </div>
 
 ***
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/corshidan/corshidan/output/github-contribution-grid-snake.svg)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=corshidan&count_private=true&theme=tokyonight&showicons=true)]()
 

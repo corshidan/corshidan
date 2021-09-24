@@ -26,7 +26,14 @@ TODO: Add short bio !
 ***
 ![snakey_snakey](https://raw.githubusercontent.com/corshidan/corshidan/output/github-contribution-grid-snake.svg)
 
-
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/?username=corshidan&count_private=true&theme=kacho_ga&showicons=true">
+</p>
 
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=corshidan&count_private=true&theme=kacho_ga&showicons=true)
 

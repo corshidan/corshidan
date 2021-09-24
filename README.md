@@ -7,10 +7,7 @@ TODO: Add short bio !
 ***
 <h3>What`s in my tool belt</h3>  
 
-
-
-
-<div align="center" style="display:flex;justify-content:space-between">
+<div align="center">
   <img align="center" alt="corshidan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="corshidan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="corshidan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

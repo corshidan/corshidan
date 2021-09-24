@@ -27,8 +27,8 @@ TODO: Add short bio !
 
 
 <p align="center">
-  ![snakey_snakey](https://raw.githubusercontent.com/corshidan/corshidan/output/github-contribution-grid-snake.svg)
-  <br><br>
+   <img src="https://raw.githubusercontent.com/corshidan/corshidan/output/github-contribution-grid-snake.svg">
+   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/?username=corshidan&count_private=true&theme=kacho_ga&showicons=true">
 </p>
 

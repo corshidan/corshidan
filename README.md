@@ -28,6 +28,8 @@ TODO: Add short bio !
    <br><br>
   <img src="https://github-readme-stats.vercel.app/api/?username=corshidan&count_private=true&theme=kacho_ga&showicons=true">
 </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=corshidan)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---

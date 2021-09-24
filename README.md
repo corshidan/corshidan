@@ -28,7 +28,7 @@ TODO: Add short bio !
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=corshidan&count_private=true&theme=kacho_ga&showicons=true)]()
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corshidan&repo=toDoListOrganizer)](https://github.com/corshidan/toDoListOrganizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corshidan&repo=jsonAirFrontEnd)](https://github.com/corshidan/jsonAirFrontEnd)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corshidan&repo=recipe-finder-last)](https://github.com/corshidan/recipe-finder-last)
 

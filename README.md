@@ -20,6 +20,7 @@ During the 16-week, intensive, full-time bootcamp I’ve built a good technologi
   <img align="center" alt="corshidan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> 
   <img align="center" alt="corshidan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="corshidan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 </div>
 

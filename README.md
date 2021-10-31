@@ -1,7 +1,8 @@
 ### Hi there 👋
-Hi, I’m Daniel, a successful School of Code alumni with an analytical mind and results oriented mindset looking for ways and opportunities to further grow my programming abilities.
+Hi, I am Daniel, a successful School of Code alumni with an analytical mind and results oriented mindset looking for ways and opportunities to further grow my programming abilities.
 </br>
-During the 16-week, intensive, full-time bootcamp I’ve built a good technological foundation, getting hands-on practice with multiple tools, technologies.
+During the 16-week, intensive, full-time bootcamp I have built a good technological foundation, getting hands-on practice with multiple tools and technologies. On top of that part of the bootcamp training was learning and embedding industry best practices, standards and agile methodologies.
+
 
 
 ##

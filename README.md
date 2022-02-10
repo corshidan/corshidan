@@ -9,7 +9,7 @@ During the 16-week, intensive, full-time bootcamp I have built a good technologi
 
 
 ***
-<h3>What`s in my tool belt</h3>  
+<h3>What`s in my tool belt.</h3>  
 
 <div align="center">
   <img align="center" alt="corshidan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
